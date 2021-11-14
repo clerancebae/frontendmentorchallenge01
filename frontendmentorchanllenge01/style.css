@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+*
+{
+    font-family: "Red Hat Display";
+}
+body
+{
+    
+    background-color: lightblue;
+}
+.container
+{
+    display: grid;
+    margin: 10% auto;
+    width: 20%;
+    border-radius: 15px;
+    background-color: white;
+
+}
+
+.container img
+{
+    border-radius: 15px 15px 0 0;
+    max-width: 100%;
+}
+.content
+{
+    width: 75%;
+    text-align: center;
+    margin: 10% auto 0 auto;
+}
+
+.content h2
+{
+    font-weight: 900;
+    margin-bottom: 5%;
+    color: hsl(223, 47%, 23%);
+}
+
+.content p
+{
+    color: hsl(224, 23%, 55%);
+}
+.container .secondcontent p
+{
+    color: hsl(224, 23%, 55%);
+}
+
+.price
+{
+    background-color: hsl(225, 100%, 98%);
+    margin:  30px auto;
+    width: 65%;
+    height: 90%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+
+.secondcontent span
+{
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+
+}
+
+.secondcontent
+{
+    color: hsl(224, 23%, 55%);
+}
+.change a
+{
+    color: hsl(245, 75%, 52%);
+    text-decoration: none;
+    text-decoration: underline;
+}
+.proceed
+{
+    border: 1px solid hsl(245, 75%, 52%);
+    text-align: center;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    width: 50%;
+    margin: 15% auto 0 auto;
+    padding: 4% 13%;
+    border-radius: 5px;
+
+}
+
+.cancel
+{
+   
+    text-align: center;
+    color: hsl(224, 23%, 55%);
+    margin: 7% 0    ;
+
+}
