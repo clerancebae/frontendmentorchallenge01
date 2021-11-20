@@ -1,4 +1,4 @@
-Hi there! I am Berke aka Clerance
+Hi there! I am Berke aka Clerance.
  
 I tried <a href="https://www.frontendmentor.io/challenges">Frontend Mentor challenge</a> 
 
